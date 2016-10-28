@@ -1,6 +1,7 @@
-# Super-rentals
+# Ben-rentals
 
-This README outlines the details of collaborating on this Ember application.
+Ben-rentals is meant to be a working repository for a simple Ember app to manage rentals.
+
 A short introduction of this app could easily go here.
 
 ## Prerequisites
